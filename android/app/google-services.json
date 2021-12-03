@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1017690676413",
+    "firebase_url": "https://resmasys-default-rtdb.firebaseio.com",
+    "project_id": "resmasys",
+    "storage_bucket": "resmasys.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1017690676413:android:886841125045d48e856bd4",
+        "android_client_info": {
+          "package_name": "com.example.flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1017690676413-g89452i0n7e692nbo64r03n77q6f6brv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTz0ylQzv58kpEwvB8S8DxHr3p7PCxABQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1017690676413-g89452i0n7e692nbo64r03n77q6f6brv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
